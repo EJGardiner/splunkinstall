@@ -8,7 +8,7 @@
  cd /opt
  sudo yum install wget
  sudo $WGET_CMD
- sudo tar -xzf $INSTALL_FILE
+ sudo tar -xvzf $INSTALL_FILE
  sudo rm -rf $INSTALL_FILE
 
  sudo useradd -m -r splunk
