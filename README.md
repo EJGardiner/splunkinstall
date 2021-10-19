@@ -1,0 +1,2 @@
+# splunkinstall
+splunk install scripts
