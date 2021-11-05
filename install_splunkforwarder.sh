@@ -1,6 +1,6 @@
 #!/bin/sh 
  
- WGET_CMD="wget -O splunk-8.1.6-c1a0dd183ee5-Linux-x86_64.tgz https://download.splunk.com/products/splunk/releases/8.1.6/linux/splunk-8.1.6-c1a0dd183ee5-Linux-x86_64.tgz"
+ WGET_CMD="wget -O splunkforwarder-8.1.6-c1a0dd183ee5-Linux-x86_64.tgz https://download.splunk.com/products/universalforwarder/releases/8.1.6/linux/splunkforwarder-8.1.6-c1a0dd183ee5-Linux-x86_64.tgz"
  INSTALL_FILE="splunkforwarder-*"
  PASSWORD="Password123"
 
